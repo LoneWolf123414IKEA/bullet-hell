@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bullet hell test", "Bullet hell test\Bullet hell test.csproj", "{A2AE730D-5BE1-4121-ADB4-BD885987F2EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AE730D-5BE1-4121-ADB4-BD885987F2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AE730D-5BE1-4121-ADB4-BD885987F2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AE730D-5BE1-4121-ADB4-BD885987F2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AE730D-5BE1-4121-ADB4-BD885987F2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F1B04FD-5CCA-4D29-8DDC-6218406E3EB9}
+	EndGlobalSection
+EndGlobal
